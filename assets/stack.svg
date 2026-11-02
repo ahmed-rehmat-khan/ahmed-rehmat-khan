@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="300" viewBox="0 0 1000 300">
+  <rect width="1000" height="300" fill="#06110D"/>
+  <rect x="1" y="1" width="998" height="298" rx="20" fill="#081812" stroke="#244136"/>
+  <text x="32" y="40" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="9.5" fill="#63B3A0" letter-spacing="3">CORE TOOLKIT</text>
+  <text x="968" y="40" text-anchor="end" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="8" fill="#66786F" letter-spacing="2">UPDATED NOV 2026</text>
+  <line x1="32" y1="58" x2="968" y2="58" stroke="#244136" stroke-opacity=".6"/>
+
+  <text x="32" y="92" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="8.5" fill="#63B3A0" letter-spacing="2">LANGUAGES &amp; FRONTEND</text>
+  <text x="232" y="93" font-family="'Inter','Segoe UI',system-ui,-apple-system,BlinkMacSystemFont,sans-serif" font-size="13" fill="#DFDCD2">TypeScript &#183; JavaScript &#183; React &#183; Next.js &#183; Tailwind CSS &#183; HTML &#183; CSS</text>
+  <line x1="32" y1="118" x2="968" y2="118" stroke="#244136" stroke-opacity=".5"/>
+
+  <text x="32" y="152" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="8.5" fill="#63B3A0" letter-spacing="2">BACKEND, DATA &amp; AI</text>
+  <text x="232" y="153" font-family="'Inter','Segoe UI',system-ui,-apple-system,BlinkMacSystemFont,sans-serif" font-size="13" fill="#DFDCD2">Node.js &#183; Python &#183; Supabase &#183; PostgreSQL &#183; MongoDB &#183; Firebase &#183; Claude</text>
+  <line x1="32" y1="178" x2="968" y2="178" stroke="#244136" stroke-opacity=".5"/>
+
+  <text x="32" y="212" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="8.5" fill="#63B3A0" letter-spacing="2">TOOLS &amp; PLATFORMS</text>
+  <text x="232" y="213" font-family="'Inter','Segoe UI',system-ui,-apple-system,BlinkMacSystemFont,sans-serif" font-size="13" fill="#DFDCD2">Git &#183; GitHub &#183; Vercel &#183; Lovable &#183; Base44 &#183; OpenCode &#183; Google Flow</text>
+  <line x1="32" y1="238" x2="968" y2="238" stroke="#244136" stroke-opacity=".5"/>
+
+  <text x="32" y="272" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="8.5" fill="#C8A96A" letter-spacing="2">EXPLORING</text>
+  <text x="232" y="273" font-family="'Inter','Segoe UI',system-ui,-apple-system,BlinkMacSystemFont,sans-serif" font-size="12" fill="#97A69E">Multi-agent orchestration &#183; evals &#183; Forward Deployed Engineering</text>
+</svg>

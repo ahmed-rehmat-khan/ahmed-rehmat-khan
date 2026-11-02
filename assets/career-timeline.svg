@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="470" viewBox="0 0 1000 470">
+  <rect width="1000" height="470" fill="#06110D"/>
+  <rect x="1" y="1" width="998" height="468" rx="20" fill="#081812" stroke="#244136"/>
+  <text x="24" y="40" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="9.5" fill="#63B3A0" letter-spacing="3">TRACK RECORD</text>
+  <text x="976" y="40" text-anchor="end" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="8" fill="#66786F" letter-spacing="2">05 ROLES &#183; 02 VENTURES FOUNDED</text>
+  <line x1="24" y1="60" x2="976" y2="60" stroke="#244136" stroke-opacity=".6"/>
+  <line x1="178" y1="76" x2="178" y2="438" stroke="#244136"/>
+  <text x="24" y="109" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="8.5" fill="#97A69E" letter-spacing="1.2">MAY 2025 &#8212; JAN 2026</text>
+  <circle cx="178" cy="104" r="4.5" fill="#06110D" stroke="#97A69E" stroke-width="1.4"/>
+  <text x="204" y="109" font-family="'Inter','Segoe UI',system-ui,-apple-system,BlinkMacSystemFont,sans-serif" font-size="15" font-weight="600" fill="#F4F1EA">Co-Founder &amp; Product Manager</text>
+  <text x="204" y="127" font-family="'Inter','Segoe UI',system-ui,-apple-system,BlinkMacSystemFont,sans-serif" font-size="11.5" fill="#97A69E">MARKAAF Studios</text>
+  <text x="204" y="145" font-family="'Inter','Segoe UI',system-ui,-apple-system,BlinkMacSystemFont,sans-serif" font-size="11.5" fill="#97A69E">Studio operations, client delivery and product direction.</text>
+  <text x="976" y="109" text-anchor="end" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="8" fill="#97A69E" letter-spacing="1.6">FOUNDING</text>
+  <line x1="24" y1="154" x2="976" y2="154" stroke="#244136" stroke-opacity=".55"/>
+  <text x="24" y="179" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="8.5" fill="#D97757" letter-spacing="1.2">JUN &#8212; SEP 2026</text>
+  <circle cx="178" cy="174" r="4.5" fill="#06110D" stroke="#D97757" stroke-width="1.4"/>
+  <text x="204" y="179" font-family="'Inter','Segoe UI',system-ui,-apple-system,BlinkMacSystemFont,sans-serif" font-size="15" font-weight="600" fill="#F4F1EA">Co-Founder &amp; CEO</text>
+  <text x="204" y="197" font-family="'Inter','Segoe UI',system-ui,-apple-system,BlinkMacSystemFont,sans-serif" font-size="11.5" fill="#D97757">AperaBoost</text>
+  <text x="204" y="215" font-family="'Inter','Segoe UI',system-ui,-apple-system,BlinkMacSystemFont,sans-serif" font-size="11.5" fill="#97A69E">Built the agency from zero &#8212; software, AI and growth.</text>
+  <text x="976" y="179" text-anchor="end" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="8" fill="#D97757" letter-spacing="1.6">FOUNDING</text>
+  <line x1="24" y1="224" x2="976" y2="224" stroke="#244136" stroke-opacity=".55"/>
+  <text x="24" y="249" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="8.5" fill="#63B3A0" letter-spacing="1.2">OCT 2026 &#8212; NOW</text>
+  <circle cx="178" cy="244" r="4.5" fill="#06110D" stroke="#63B3A0" stroke-width="1.4"/>
+  <text x="204" y="249" font-family="'Inter','Segoe UI',system-ui,-apple-system,BlinkMacSystemFont,sans-serif" font-size="15" font-weight="600" fill="#F4F1EA">Chief Technology &amp; Growth Officer</text>
+  <text x="204" y="267" font-family="'Inter','Segoe UI',system-ui,-apple-system,BlinkMacSystemFont,sans-serif" font-size="11.5" fill="#63B3A0">Luveia</text>
+  <text x="204" y="285" font-family="'Inter','Segoe UI',system-ui,-apple-system,BlinkMacSystemFont,sans-serif" font-size="11.5" fill="#97A69E">Technology strategy, AI integration and technology-led growth.</text>
+  <text x="976" y="249" text-anchor="end" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="8" fill="#63B3A0" letter-spacing="1.6">CURRENT</text>
+  <line x1="24" y1="294" x2="976" y2="294" stroke="#244136" stroke-opacity=".55"/>
+  <text x="24" y="319" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="8.5" fill="#63B3A0" letter-spacing="1.2">2026 &#8212; PRESENT</text>
+  <circle cx="178" cy="314" r="4.5" fill="#06110D" stroke="#63B3A0" stroke-width="1.4"/>
+  <text x="204" y="319" font-family="'Inter','Segoe UI',system-ui,-apple-system,BlinkMacSystemFont,sans-serif" font-size="15" font-weight="600" fill="#F4F1EA">Head of Product</text>
+  <text x="204" y="337" font-family="'Inter','Segoe UI',system-ui,-apple-system,BlinkMacSystemFont,sans-serif" font-size="11.5" fill="#63B3A0">TradeSpera</text>
+  <text x="204" y="355" font-family="'Inter','Segoe UI',system-ui,-apple-system,BlinkMacSystemFont,sans-serif" font-size="11.5" fill="#97A69E">Product strategy for connected commerce and credit workflows.</text>
+  <text x="976" y="319" text-anchor="end" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="8" fill="#63B3A0" letter-spacing="1.6">CURRENT</text>
+  <line x1="24" y1="364" x2="976" y2="364" stroke="#244136" stroke-opacity=".55"/>
+  <text x="24" y="389" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="8.5" fill="#97A69E" letter-spacing="1.2">EARLIER</text>
+  <circle cx="178" cy="384" r="4.5" fill="#06110D" stroke="#97A69E" stroke-width="1.4"/>
+  <text x="204" y="389" font-family="'Inter','Segoe UI',system-ui,-apple-system,BlinkMacSystemFont,sans-serif" font-size="15" font-weight="600" fill="#F4F1EA">Software Engineer</text>
+  <text x="204" y="407" font-family="'Inter','Segoe UI',system-ui,-apple-system,BlinkMacSystemFont,sans-serif" font-size="11.5" fill="#97A69E">Aplinode Academy</text>
+  <text x="204" y="425" font-family="'Inter','Segoe UI',system-ui,-apple-system,BlinkMacSystemFont,sans-serif" font-size="11.5" fill="#97A69E">Foundation in shipping real software, early on.</text>
+  <text x="976" y="389" text-anchor="end" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="8" fill="#97A69E" letter-spacing="1.6">FOUNDATION</text>
+  <line x1="24" y1="434" x2="976" y2="434" stroke="#244136" stroke-opacity=".55"/>
+</svg>

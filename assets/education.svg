@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="220" viewBox="0 0 1000 220">
+  <rect width="1000" height="220" fill="#06110D"/>
+  <g transform="translate(0 0)">
+    <rect x="1" y="1" width="486" height="218" rx="18" fill="#0A1B15" stroke="#244136"/>
+    <line x1="1" y1="1" x2="49" y2="1" stroke="#63B3A0" stroke-width="2"/>
+    <text x="24" y="38" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="8.5" fill="#63B3A0" letter-spacing="2.4">EDUCATION &#183; 01</text>
+    <text x="24" y="78" font-family="'Inter','Segoe UI',system-ui,-apple-system,BlinkMacSystemFont,sans-serif" font-size="18" font-weight="700" fill="#F4F1EA" letter-spacing="-.2">Saylani Mass IT Training</text>
+    <text x="24" y="101" font-family="'Inter','Segoe UI',system-ui,-apple-system,BlinkMacSystemFont,sans-serif" font-size="12.5" font-weight="500" fill="#63B3A0">Modern Web &amp; App Development</text>
+    <line x1="24" y1="120" x2="464" y2="120" stroke="#244136" stroke-opacity=".8"/>
+    <text x="24" y="146" font-family="'Inter','Segoe UI',system-ui,-apple-system,BlinkMacSystemFont,sans-serif" font-size="11.5" fill="#97A69E">Full-stack web and app development,</text>
+    <text x="24" y="163" font-family="'Inter','Segoe UI',system-ui,-apple-system,BlinkMacSystemFont,sans-serif" font-size="11.5" fill="#97A69E">delivered through SMIT.</text>
+    <text x="24" y="199" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="8" fill="#66786F" letter-spacing="1.4">2025 &#8212; 2026</text>
+    <text x="464" y="199" text-anchor="end" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="8" fill="#66786F" letter-spacing="1.4">KARACHI</text>
+  </g>
+  <g transform="translate(512 0)">
+    <rect x="1" y="1" width="486" height="218" rx="18" fill="#0A1B15" stroke="#244136"/>
+    <line x1="1" y1="1" x2="49" y2="1" stroke="#D97757" stroke-width="2"/>
+    <text x="24" y="38" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="8.5" fill="#D97757" letter-spacing="2.4">EDUCATION &#183; 02</text>
+    <text x="24" y="78" font-family="'Inter','Segoe UI',system-ui,-apple-system,BlinkMacSystemFont,sans-serif" font-size="18" font-weight="700" fill="#F4F1EA" letter-spacing="-.2">PIAIC</text>
+    <text x="24" y="101" font-family="'Inter','Segoe UI',system-ui,-apple-system,BlinkMacSystemFont,sans-serif" font-size="12.5" font-weight="500" fill="#D97757">Agentic AI Development &#183; Batch 86</text>
+    <line x1="24" y1="120" x2="464" y2="120" stroke="#244136" stroke-opacity=".8"/>
+    <text x="24" y="146" font-family="'Inter','Segoe UI',system-ui,-apple-system,BlinkMacSystemFont,sans-serif" font-size="11.5" fill="#97A69E">Agent Factory Quarter 01 completed;</text>
+    <text x="24" y="163" font-family="'Inter','Segoe UI',system-ui,-apple-system,BlinkMacSystemFont,sans-serif" font-size="11.5" fill="#97A69E">multi-agent systems in practice.</text>
+    <text x="24" y="199" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="8" fill="#66786F" letter-spacing="1.4">2025 &#8212; 2026</text>
+    <text x="464" y="199" text-anchor="end" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="8" fill="#66786F" letter-spacing="1.4">KARACHI</text>
+  </g>
+</svg>

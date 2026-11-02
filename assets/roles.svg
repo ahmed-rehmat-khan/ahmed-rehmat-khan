@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="250" viewBox="0 0 1000 250">
+  <rect width="1000" height="250" fill="#06110D"/>
+  <g transform="translate(0 0)">
+    <rect x="1" y="1" width="318" height="248" rx="18" fill="#0A1B15" stroke="#244136"/>
+    <line x1="1" y1="1" x2="53" y2="1" stroke="#63B3A0" stroke-width="2"/>
+    <rect x="24" y="24" width="40" height="40" rx="11" fill="#63B3A0" fill-opacity=".08" stroke="#63B3A0" stroke-opacity=".35"/>
+    <text x="44" y="50" text-anchor="middle" font-family="'Inter','Segoe UI',system-ui,-apple-system,BlinkMacSystemFont,sans-serif" font-size="17" font-weight="700" fill="#63B3A0">L</text>
+    <text x="80" y="45" font-family="'Inter','Segoe UI',system-ui,-apple-system,BlinkMacSystemFont,sans-serif" font-size="18" font-weight="700" fill="#F4F1EA" letter-spacing="-.2">Luveia</text>
+    <text x="80" y="64" font-family="'Inter','Segoe UI',system-ui,-apple-system,BlinkMacSystemFont,sans-serif" font-size="11.5" font-weight="500" fill="#63B3A0">Chief Technology &amp; Growth Officer</text>
+    <text x="296" y="39" text-anchor="end" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="8.5" fill="#66786F" letter-spacing="1.4">01</text>
+    <line x1="24" y1="96" x2="296" y2="96" stroke="#244136" stroke-opacity=".85"/>
+    <text x="24" y="126" font-family="'Inter','Segoe UI',system-ui,-apple-system,BlinkMacSystemFont,sans-serif" font-size="12" fill="#97A69E">Technology strategy, AI integration</text>
+    <text x="24" y="144" font-family="'Inter','Segoe UI',system-ui,-apple-system,BlinkMacSystemFont,sans-serif" font-size="12" fill="#97A69E">and technology-led growth.</text>
+    <text x="24" y="218" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="8" fill="#66786F" letter-spacing="1.4">OCT 2026 &#8212; PRESENT</text>
+    <text x="296" y="218" text-anchor="end" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="8" fill="#63B3A0" letter-spacing="1.6">CURRENT</text>
+  </g>
+  <g transform="translate(340 0)">
+    <rect x="1" y="1" width="318" height="248" rx="18" fill="#0A1B15" stroke="#244136"/>
+    <line x1="1" y1="1" x2="53" y2="1" stroke="#D97757" stroke-width="2"/>
+    <rect x="24" y="24" width="40" height="40" rx="11" fill="#D97757" fill-opacity=".08" stroke="#D97757" stroke-opacity=".35"/>
+    <text x="44" y="50" text-anchor="middle" font-family="'Inter','Segoe UI',system-ui,-apple-system,BlinkMacSystemFont,sans-serif" font-size="17" font-weight="700" fill="#D97757">T</text>
+    <text x="80" y="45" font-family="'Inter','Segoe UI',system-ui,-apple-system,BlinkMacSystemFont,sans-serif" font-size="18" font-weight="700" fill="#F4F1EA" letter-spacing="-.2">TradeSpera</text>
+    <text x="80" y="64" font-family="'Inter','Segoe UI',system-ui,-apple-system,BlinkMacSystemFont,sans-serif" font-size="11.5" font-weight="500" fill="#D97757">Head of Product</text>
+    <text x="296" y="39" text-anchor="end" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="8.5" fill="#66786F" letter-spacing="1.4">02</text>
+    <line x1="24" y1="96" x2="296" y2="96" stroke="#244136" stroke-opacity=".85"/>
+    <text x="24" y="126" font-family="'Inter','Segoe UI',system-ui,-apple-system,BlinkMacSystemFont,sans-serif" font-size="12" fill="#97A69E">Product strategy for connected</text>
+    <text x="24" y="144" font-family="'Inter','Segoe UI',system-ui,-apple-system,BlinkMacSystemFont,sans-serif" font-size="12" fill="#97A69E">commerce and credit workflows.</text>
+    <text x="24" y="218" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="8" fill="#66786F" letter-spacing="1.4">2026 &#8212; PRESENT</text>
+    <text x="296" y="218" text-anchor="end" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="8" fill="#D97757" letter-spacing="1.6">CURRENT</text>
+  </g>
+  <g transform="translate(680 0)">
+    <rect x="1" y="1" width="318" height="248" rx="18" fill="#0A1B15" stroke="#244136"/>
+    <line x1="1" y1="1" x2="53" y2="1" stroke="#C8A96A" stroke-width="2"/>
+    <rect x="24" y="24" width="40" height="40" rx="11" fill="#C8A96A" fill-opacity=".08" stroke="#C8A96A" stroke-opacity=".35"/>
+    <text x="44" y="50" text-anchor="middle" font-family="'Inter','Segoe UI',system-ui,-apple-system,BlinkMacSystemFont,sans-serif" font-size="17" font-weight="700" fill="#C8A96A">P</text>
+    <text x="80" y="45" font-family="'Inter','Segoe UI',system-ui,-apple-system,BlinkMacSystemFont,sans-serif" font-size="18" font-weight="700" fill="#F4F1EA" letter-spacing="-.2">PostSpera</text>
+    <text x="80" y="64" font-family="'Inter','Segoe UI',system-ui,-apple-system,BlinkMacSystemFont,sans-serif" font-size="11.5" font-weight="500" fill="#C8A96A">Co-Creator</text>
+    <text x="296" y="39" text-anchor="end" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="8.5" fill="#66786F" letter-spacing="1.4">03</text>
+    <line x1="24" y1="96" x2="296" y2="96" stroke="#244136" stroke-opacity=".85"/>
+    <text x="24" y="126" font-family="'Inter','Segoe UI',system-ui,-apple-system,BlinkMacSystemFont,sans-serif" font-size="12" fill="#97A69E">AI writing intelligence for ad</text>
+    <text x="24" y="144" font-family="'Inter','Segoe UI',system-ui,-apple-system,BlinkMacSystemFont,sans-serif" font-size="12" fill="#97A69E">briefs and video prompts.</text>
+    <text x="24" y="218" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="8" fill="#66786F" letter-spacing="1.4">2026 &#8212; PRESENT</text>
+    <text x="296" y="218" text-anchor="end" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="8" fill="#C8A96A" letter-spacing="1.6">CURRENT</text>
+  </g>
+</svg>

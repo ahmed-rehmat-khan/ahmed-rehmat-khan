@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="108" viewBox="0 0 1000 108">
+  <rect width="1000" height="108" fill="#06110D"/>
+  <line x1="0" y1="0" x2="1000" y2="0" stroke="#244136"/>
+  <line x1="0" y1="108" x2="1000" y2="108" stroke="#244136"/>
+  <line x1="333" y1="22" x2="333" y2="86" stroke="#244136" stroke-opacity=".7"/>
+  <line x1="667" y1="22" x2="667" y2="86" stroke="#244136" stroke-opacity=".7"/>
+
+  <text x="166" y="46" text-anchor="middle" font-family="'Inter','Segoe UI',system-ui,-apple-system,BlinkMacSystemFont,sans-serif" font-size="30" font-weight="700" fill="#F4F1EA">03</text>
+  <text x="166" y="68" text-anchor="middle" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="8.5" fill="#63B3A0" letter-spacing="2">ACTIVE VENTURES</text>
+  <text x="166" y="88" text-anchor="middle" font-family="'Inter','Segoe UI',system-ui,-apple-system,BlinkMacSystemFont,sans-serif" font-size="10" fill="#66786F">Luveia &#183; TradeSpera &#183; PostSpera</text>
+
+  <text x="500" y="46" text-anchor="middle" font-family="'Inter','Segoe UI',system-ui,-apple-system,BlinkMacSystemFont,sans-serif" font-size="30" font-weight="700" fill="#F4F1EA">10+</text>
+  <text x="500" y="68" text-anchor="middle" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="8.5" fill="#63B3A0" letter-spacing="2">PRODUCTS &amp; PROJECTS</text>
+  <text x="500" y="88" text-anchor="middle" font-family="'Inter','Segoe UI',system-ui,-apple-system,BlinkMacSystemFont,sans-serif" font-size="10" fill="#66786F">Shipped, tested, live</text>
+
+  <text x="834" y="46" text-anchor="middle" font-family="'Inter','Segoe UI',system-ui,-apple-system,BlinkMacSystemFont,sans-serif" font-size="30" font-weight="700" fill="#F4F1EA">02</text>
+  <text x="834" y="68" text-anchor="middle" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="8.5" fill="#63B3A0" letter-spacing="2">LEARNING PROGRAMS</text>
+  <text x="834" y="88" text-anchor="middle" font-family="'Inter','Segoe UI',system-ui,-apple-system,BlinkMacSystemFont,sans-serif" font-size="10" fill="#66786F">Saylani &#183; PIAIC</text>
+</svg>

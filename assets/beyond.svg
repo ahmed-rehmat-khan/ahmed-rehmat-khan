@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="240" viewBox="0 0 1000 240">
+  <rect width="1000" height="240" fill="#06110D"/>
+  <g transform="translate(0 0)">
+    <rect x="1" y="1" width="486" height="238" rx="18" fill="#0A1B15" stroke="#244136"/>
+    <line x1="1" y1="1" x2="49" y2="1" stroke="#D97757" stroke-width="2"/>
+    <text x="24" y="34" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="8.5" fill="#D97757" letter-spacing="2.4">OFF THE CLOCK &#183; 01</text>
+    <text x="24" y="68" font-family="'Inter','Segoe UI',system-ui,-apple-system,BlinkMacSystemFont,sans-serif" font-size="20" font-weight="700" fill="#F4F1EA" letter-spacing="-.2">Football</text>
+    <text x="24" y="92" font-family="'Inter','Segoe UI',system-ui,-apple-system,BlinkMacSystemFont,sans-serif" font-size="11.5" fill="#97A69E">Attacking midfielder. Scan, find the space,</text>
+    <text x="24" y="108" font-family="'Inter','Segoe UI',system-ui,-apple-system,BlinkMacSystemFont,sans-serif" font-size="11.5" fill="#97A69E">make the pass.</text>
+    <text x="464" y="206" text-anchor="end" font-family="'Iowan Old Style','Palatino Linotype',Palatino,Georgia,serif" font-style="italic" font-size="96" fill="#D97757" fill-opacity=".07">11</text>
+    <rect x="24" y="126" width="440" height="88" rx="10" fill="#06110D" stroke="#244136"/>
+    <line x1="244" y1="126" x2="244" y2="214" stroke="#244136"/>
+    <circle cx="244" cy="170" r="19" fill="none" stroke="#244136"/>
+    <rect x="24" y="148" width="30" height="44" fill="none" stroke="#244136"/>
+    <rect x="434" y="148" width="30" height="44" fill="none" stroke="#244136"/>
+    <circle cx="244" cy="170" r="2.5" fill="#D97757"/>
+    <text x="24" y="232" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="8" fill="#66786F" letter-spacing="1.4">CAM &#183; #11</text>
+  </g>
+
+  <g transform="translate(512 0)">
+    <rect x="1" y="1" width="486" height="238" rx="18" fill="#0A1B15" stroke="#244136"/>
+    <line x1="1" y1="1" x2="49" y2="1" stroke="#63B3A0" stroke-width="2"/>
+    <text x="24" y="34" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="8.5" fill="#63B3A0" letter-spacing="2.4">OFF THE CLOCK &#183; 02</text>
+    <text x="24" y="68" font-family="'Inter','Segoe UI',system-ui,-apple-system,BlinkMacSystemFont,sans-serif" font-size="20" font-weight="700" fill="#F4F1EA" letter-spacing="-.2">Design</text>
+    <text x="24" y="92" font-family="'Inter','Segoe UI',system-ui,-apple-system,BlinkMacSystemFont,sans-serif" font-size="11.5" fill="#97A69E">Dark, editorial, restrained.</text>
+    <text x="24" y="108" font-family="'Inter','Segoe UI',system-ui,-apple-system,BlinkMacSystemFont,sans-serif" font-size="11.5" fill="#97A69E">Consistency over decoration.</text>
+    <text x="464" y="108" text-anchor="end" font-family="'Iowan Old Style','Palatino Linotype',Palatino,Georgia,serif" font-size="54" fill="#C8A96A" fill-opacity=".9">Aa</text>
+    <g transform="translate(24 150)">
+      <rect width="40" height="40" rx="9" fill="#06110D" stroke="#244136"/>
+      <rect x="52" width="40" height="40" rx="9" fill="#D97757" fill-opacity=".9"/>
+      <rect x="104" width="40" height="40" rx="9" fill="#63B3A0" fill-opacity=".9"/>
+      <rect x="156" width="40" height="40" rx="9" fill="#C8A96A" fill-opacity=".9"/>
+      <text x="20" y="58" text-anchor="middle" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="7" fill="#66786F" letter-spacing=".8">FOREST</text>
+      <text x="72" y="58" text-anchor="middle" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="7" fill="#66786F" letter-spacing=".8">TERRA</text>
+      <text x="124" y="58" text-anchor="middle" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="7" fill="#66786F" letter-spacing=".8">TEAL</text>
+      <text x="176" y="58" text-anchor="middle" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="7" fill="#66786F" letter-spacing=".8">BONE</text>
+    </g>
+    <text x="24" y="232" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="8" fill="#66786F" letter-spacing="1.4">FOREST &#183; TERRACOTTA &#183; TEAL</text>
+  </g>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="140" viewBox="0 0 1200 140">
+  <rect width="1200" height="140" fill="#06110D"/>
+  <rect x="1" y="1" width="1198" height="138" rx="20" fill="#06110D" stroke="#244136"/>
+  <rect x="1" y="1" width="1198" height="2" fill="#C8A96A" fill-opacity=".55"/>
+  <circle cx="56" cy="70" r="23" fill="none" stroke="#63B3A0" stroke-opacity=".4"/>
+  <text x="56" y="74" text-anchor="middle" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="8.5" fill="#63B3A0" letter-spacing="1.2">ARK</text>
+  <text x="96" y="64" font-family="'Inter','Segoe UI',system-ui,-apple-system,BlinkMacSystemFont,sans-serif" font-size="14" font-weight="700" fill="#F4F1EA" letter-spacing=".3">Ahmed Rehmat Khan</text>
+  <text x="96" y="82" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="8" fill="#66786F" letter-spacing="1.6">TECHNOLOGY &#183; AI &#183; PRODUCT</text>
+  <text x="600" y="76" text-anchor="middle" font-family="'Iowan Old Style','Palatino Linotype',Palatino,Georgia,serif" font-style="italic" font-size="21" fill="#97A69E">From dreams to reality.</text>
+  <text x="1144" y="62" text-anchor="end" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="8" fill="#66786F" letter-spacing="1.6">KARACHI, PAKISTAN</text>
+  <text x="1144" y="80" text-anchor="end" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="8" fill="#63B3A0" letter-spacing="1.6">&#169; 2026</text>
+  <line x1="44" y1="110" x2="1156" y2="110" stroke="#244136" stroke-opacity=".7"/>
+  <text x="44" y="127" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="7.5" fill="#66786F" letter-spacing="1.4">BUILT WITH INTENT &#183; SHIPPED WITH CARE</text>
+  <text x="1156" y="127" text-anchor="end" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="7.5" fill="#66786F" letter-spacing="1.4">THANKS FOR STOPPING BY</text>
+</svg>

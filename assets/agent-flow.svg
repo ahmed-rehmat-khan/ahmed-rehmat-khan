@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="300" viewBox="0 0 1000 300">
+  <rect width="1000" height="300" fill="#06110D"/>
+  <rect x="1" y="1" width="998" height="298" rx="20" fill="#081812" stroke="#244136"/>
+  <text x="32" y="38" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="9.5" fill="#63B3A0" letter-spacing="3">AGENTIC SYSTEM ARCHITECTURE</text>
+  <text x="968" y="38" text-anchor="end" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="8" fill="#66786F" letter-spacing="2">HUMAN-IN-THE-LOOP</text>
+  <line x1="32" y1="56" x2="968" y2="56" stroke="#244136" stroke-opacity=".6"/>
+
+  <path d="M172,175 L184,175" stroke="#97A69E" stroke-opacity=".35" stroke-dasharray="4 4"/>
+  <path d="M324,175 C334,175 334,106 344,106" stroke="#97A69E" stroke-opacity=".3" stroke-dasharray="4 4" fill="none"/>
+  <path d="M324,175 L344,175" stroke="#97A69E" stroke-opacity=".3" stroke-dasharray="4 4"/>
+  <path d="M324,175 C334,175 334,244 344,244" stroke="#97A69E" stroke-opacity=".3" stroke-dasharray="4 4" fill="none"/>
+  <path d="M524,106 C534,106 534,175 544,175" stroke="#97A69E" stroke-opacity=".3" stroke-dasharray="4 4" fill="none"/>
+  <path d="M524,175 L544,175" stroke="#97A69E" stroke-opacity=".3" stroke-dasharray="4 4"/>
+  <path d="M524,244 C534,244 534,175 544,175" stroke="#97A69E" stroke-opacity=".3" stroke-dasharray="4 4" fill="none"/>
+  <path d="M694,175 L714,175" stroke="#97A69E" stroke-opacity=".35" stroke-dasharray="4 4"/>
+
+  <path d="M799,214 L799,272 L254,272 L254,214" fill="none" stroke="#63B3A0" stroke-opacity=".28" stroke-dasharray="3 6"/>
+  <text x="660" y="266" text-anchor="middle" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="8" fill="#66786F" letter-spacing="1.6">EVALUATE &#183; REFINE &#183; REPEAT</text>
+
+  <rect x="32" y="149" width="140" height="52" rx="12" fill="#0A1B15" stroke="#97A69E" stroke-opacity=".45"/>
+  <text x="102" y="175" text-anchor="middle" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="10.5" font-weight="600" fill="#97A69E" letter-spacing="1">USER INTENT</text>
+
+  <rect x="184" y="149" width="140" height="52" rx="12" fill="#0A1B15" stroke="#63B3A0" stroke-opacity=".45"/>
+  <text x="254" y="175" text-anchor="middle" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="10.5" font-weight="600" fill="#63B3A0" letter-spacing="1">PLANNER</text>
+
+  <rect x="344" y="80" width="180" height="52" rx="12" fill="#0A1B15" stroke="#D97757" stroke-opacity=".45"/>
+  <text x="434" y="103" text-anchor="middle" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="10.5" font-weight="600" fill="#D97757" letter-spacing="1">REASONING</text>
+  <text x="434" y="119" text-anchor="middle" font-family="'Inter','Segoe UI',system-ui,-apple-system,BlinkMacSystemFont,sans-serif" font-size="9" fill="#97A69E">Claude models</text>
+
+  <rect x="344" y="149" width="180" height="52" rx="12" fill="#0A1B15" stroke="#63B3A0" stroke-opacity=".45"/>
+  <text x="434" y="172" text-anchor="middle" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="10.5" font-weight="600" fill="#63B3A0" letter-spacing="1">TOOLS &amp; APIs</text>
+  <text x="434" y="188" text-anchor="middle" font-family="'Inter','Segoe UI',system-ui,-apple-system,BlinkMacSystemFont,sans-serif" font-size="9" fill="#97A69E">search &#183; data &#183; actions</text>
+
+  <rect x="344" y="218" width="180" height="52" rx="12" fill="#0A1B15" stroke="#C8A96A" stroke-opacity=".45"/>
+  <text x="434" y="241" text-anchor="middle" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="10.5" font-weight="600" fill="#C8A96A" letter-spacing="1">MEMORY</text>
+  <text x="434" y="257" text-anchor="middle" font-family="'Inter','Segoe UI',system-ui,-apple-system,BlinkMacSystemFont,sans-serif" font-size="9" fill="#97A69E">context &#183; history</text>
+
+  <rect x="544" y="149" width="150" height="52" rx="12" fill="#0A1B15" stroke="#D97757" stroke-opacity=".45"/>
+  <text x="619" y="175" text-anchor="middle" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="10.5" font-weight="600" fill="#D97757" letter-spacing="1">EXECUTOR</text>
+
+  <rect x="714" y="149" width="170" height="52" rx="12" fill="#0A1B15" stroke="#63B3A0" stroke-opacity=".45"/>
+  <text x="799" y="172" text-anchor="middle" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="10.5" font-weight="600" fill="#63B3A0" letter-spacing="1">OUTCOME</text>
+  <text x="799" y="188" text-anchor="middle" font-family="'Inter','Segoe UI',system-ui,-apple-system,BlinkMacSystemFont,sans-serif" font-size="9" fill="#97A69E">shipped, measurable</text>
+
+</svg>
